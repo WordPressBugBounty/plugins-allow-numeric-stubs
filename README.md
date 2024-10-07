@@ -1,0 +1,1 @@
+# plugins-allow-numeric-stubs
